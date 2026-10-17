@@ -12,54 +12,6 @@
 
 ---
 
-## 🚀 Featured GitHub Projects
-
-### 🧩 Data Engineering & Pipelines
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Srndraaaa/Simple-ETL-Pipeline-For-Weather-API-Open-Mateo">🌤️ Weather ETL (Open-Meteo)</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </p>
-      <p>Open-Meteo weather ETL into PostgreSQL — extraction with retry and timeout, normalization, idempotent upserts, run history, and an internal dashboard for pipeline health and data quality. Runs automatically every 2 hours, or manually on demand via Docker Compose.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Srndraaaa/eth-project">🪙 ETH Market Data Pipeline</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Binance%20API-F0B90B?style=flat-square" alt="Binance API">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      </p>
-      <p>Scheduled ingestion of Binance ETHUSDT 15m klines into a NeonDB PostgreSQL database — environment-based configuration, batched <code>execute_values</code> inserts, and structured logging for each run.</p>
-    </td>
-  </tr>
-</table>
-
-### 📈 Market Screening & Analysis
-
-<table>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/Srndraaaa/Alpha-Swing">📊 AlphaSwing US</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/spec-v3.0%20documented-2ea44f?style=flat-square" alt="Documented spec">
-      </p>
-      <p>Swing-trading stock screener built around a top-down filtering funnel: multi-layer screening driven by macro conditions, mathematical scoring, hard-stop disqualification rules, response caching, and a watchlist workflow — specified in a written technical document and covered by tests (Finnhub API data).</p>
-    </td>
-  </tr>
-</table>
-
-### 📦 Datasets
-
-- **[dataset-private](https://github.com/Srndraaaa/dataset-private)** — Working datasets for coursework and experiments: software defect prediction and UMKM credit-application classification.
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="left">
