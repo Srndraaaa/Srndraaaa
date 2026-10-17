@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20ETL%20%7C%20IoT-2ea44f?style=flat-square" alt="Focus">
 </p>
 
-> **Data Science student at Universitas Muhammadiyah Semarang who likes the unglamorous half of data work: scheduled ETL, idempotent upserts, Docker Compose, and the health dashboard everyone ends up checking anyway.**
+> **Data Science student at Universitas Muhammadiyah Semarang, working toward data engineering.**
 >
-> My repos are mostly pipelines and screeners: weather data from Open-Meteo into PostgreSQL with its own monitoring dashboard, Binance ETH/USDT candles into NeonDB on a schedule, and a swing-trading screener with a documented filtering pipeline. Off the keyboard I lead a division at HIMASDA Unimus — managing cross-functional teams and branding — and I run Debian as a daily driver, mostly to keep myself honest about what actually runs where.
+> My main interest is the movement of data: pipelines, orchestration, and the tools that keep both running. Outside of coursework I lead a division at HIMASDA Unimus, handling team coordination and branding. Earlier I led an IoT-based smart farming project, wiring sensors up to a dashboard. I run Debian as a daily driver, mostly because I want to know how the machine actually works.
 
 ---
 
@@ -77,10 +77,10 @@
 
 ## 🌱 Current Engineering Focus
 
-- 🔁 **ETL & Orchestration** — keeping scheduled pipelines boring and reliable with Airflow, Spark, and Kafka.
-- 🧪 **Data Quality & Monitoring** — run history, health checks, and dashboards that make a broken pipeline obvious.
-- 🐳 **Containerized Data Stacks** — Docker Compose as the default way to ship reproducible data environments.
-- 📡 **IoT & Applied Projects** — prior experience leading an IoT-based smart farming project, from sensors to dashboard.
+- 🔁 **ETL & Orchestration**: scheduling pipelines with Airflow, Spark, and Kafka.
+- 🧪 **Data Quality & Monitoring**: run history, health checks, and dashboards so failures are visible early.
+- 🐳 **Containerized Data Stacks**: Docker Compose for reproducible data environments.
+- 📡 **IoT**: previously led an IoT-based smart farming project, connecting sensors to a dashboard.
 
 ---
 
@@ -89,10 +89,5 @@
 - **GitHub**: [@Srndraaaa](https://github.com/Srndraaaa)
 - **LinkedIn**: [daffa-sarendra](https://www.linkedin.com/in/daffa-sarendra-78944937b)
 
-Always open to collaborating on **Data Engineering, Machine Learning, or IoT** projects.
+Open to collaboration on data engineering, machine learning, and IoT projects.
 
----
-
-<p align="center">
-  <i>"Raw data in. Decisions out."</i>
-</p>
