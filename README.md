@@ -1,22 +1,20 @@
-# Hi there, I'm Daffa 👋 (`@Srndraaaa`)
+# Hi, I'm Daffa (@Srndraaaa)
 
 <p align="left">
   <a href="https://github.com/Srndraaaa"><img src="https://img.shields.io/github/followers/Srndraaaa?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/daffa-sarendra-78944937b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/daffa-sarendra-78944937b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20ETL%20%7C%20IoT-2ea44f?style=flat-square" alt="Focus">
 </p>
 
-> **Data Science student at Universitas Muhammadiyah Semarang, working toward data engineering.**
->
-> My main interest is the movement of data: pipelines, orchestration, and the tools that keep both running. Outside of coursework I lead a division at HIMASDA Unimus, handling team coordination and branding. Earlier I led an IoT-based smart farming project, wiring sensors up to a dashboard. I run Debian as a daily driver, mostly because I want to know how the machine actually works.
+Data Science student at Universitas Muhammadiyah Semarang, working toward data engineering. My main interest is the movement of data: pipelines, orchestration, and the tools that keep both running. Outside coursework I lead a division at HIMASDA Unimus, handling team coordination and branding. Earlier I led an IoT-based smart farming project, wiring sensors up to a dashboard. I run Debian as a daily driver, mostly because I want to know how the machine actually works.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="left">
 
-### 💻 Languages & Query
+### Languages & Query
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -25,7 +23,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-### 🔄 Data Engineering
+### Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
@@ -34,7 +32,7 @@
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv">
 </p>
 
-### 🗄️ Databases & Warehouses
+### Databases & Warehouses
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -43,14 +41,14 @@
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
 </p>
 
-### 🤖 ML & AI
+### ML & AI
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
-### 🚢 Infrastructure & Tooling
+### Infrastructure & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -63,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Metrics
+## GitHub Analytics & Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srndraaaa&theme=tokyonight" alt="Daffa's GitHub Profile Details" width="100%">
@@ -75,19 +73,18 @@
 
 ---
 
-## 🌱 Current Engineering Focus
+## Current Engineering Focus
 
-- 🔁 **ETL & Orchestration**: scheduling pipelines with Airflow, Spark, and Kafka.
-- 🧪 **Data Quality & Monitoring**: run history, health checks, and dashboards so failures are visible early.
-- 🐳 **Containerized Data Stacks**: Docker Compose for reproducible data environments.
-- 📡 **IoT**: previously led an IoT-based smart farming project, connecting sensors to a dashboard.
+- Scheduling pipelines with Airflow, Spark, and Kafka.
+- Tracking run history and health checks, with dashboards that keep failures visible early.
+- Running data stacks in Docker Compose for reproducible environments.
+- IoT work, including the smart farming project where I connected sensors to a dashboard.
 
 ---
 
-## 📫 Connect & Collaborate
+## Connect & Collaborate
 
-- **GitHub**: [@Srndraaaa](https://github.com/Srndraaaa)
-- **LinkedIn**: [daffa-sarendra](https://www.linkedin.com/in/daffa-sarendra-78944937b)
+- GitHub: [@Srndraaaa](https://github.com/Srndraaaa)
+- LinkedIn: [daffa-sarendra](https://www.linkedin.com/in/daffa-sarendra-78944937b)
 
 Open to collaboration on data engineering, machine learning, and IoT projects.
-
